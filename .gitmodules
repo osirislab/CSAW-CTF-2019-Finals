@@ -1,0 +1,3 @@
+[submodule "misc/yeet_wars1/yeet_wars"]
+	path = misc/yeet_wars1/yeet_wars
+	url = https://github.com/cadulceus/yeet_wars.git
